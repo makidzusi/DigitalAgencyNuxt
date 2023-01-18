@@ -5,16 +5,16 @@
       <ContentDoc v-slot="{ doc }">
         <Meta name="description" :content="doc.title" />
         <Head>
-          <Meta property="og:url" content="https://digitalwand.ru/blogs" />
+          <Meta property="og:url" content="/" />
           <Meta property="og:type" content="website" />
-          <Meta property="og:title" content="DigitalWand" />
+          <Meta property="og:title" content="DigitalAgency" />
           <Meta property="og:description" :content="doc.title" />
           <Meta property="og:image" :content="doc.img" />
 
           <Meta name="twitter:card" content="summary_large_image" />
-          <Meta property="twitter:domain" content="digitalwand.ru/blogs" />
-          <Meta property="twitter:url" content="https://digitalwand.ru/blogs" />
-          <Meta name="twitter:title" content="DigitalWand" />
+          <Meta property="twitter:domain" content="/" />
+          <Meta property="twitter:url" content="/" />
+          <Meta name="twitter:title" content="DigitalAgency" />
           <Meta name="twitter:description" :content="doc.title" />
           <Meta name="twitter:image" :content="doc.img" />
         </Head>

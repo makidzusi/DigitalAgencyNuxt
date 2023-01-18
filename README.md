@@ -1,42 +1,24 @@
-# Nuxt 3 Minimal Starter
+# Simple Nuxt 3 DigitalAgency website template
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Features
+* blogs from markdown
+* auto image optimization
+* ssg or ssr renderer
+* localization
 
-## Setup
+## Used techs:
+- [Nuxt 3](https://nuxt.com/)
+- [Nuxt image](https://v1.image.nuxtjs.org/)
+- [Nuxt Tailwind](https://tailwindcss.nuxt.dev/)
+- [Lottie](https://lottiefiles.com/what-is-lottie)
+- [Animate On Scroll Library](https://michalsnik.github.io/aos/)
 
-Make sure to install the dependencies:
+- [Nuxt content](https://content.nuxtjs.org/)
+- [Nuxt i18n](https://v8.i18n.nuxtjs.org/)
+- [FormKit](https://formkit.com/)
+- [HeadlessUI](https://headlessui.com/)
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Coomon commands
+- npm run dev - start dev mode
+- npm run generate - genrate static website
+- npm run build - build nuxt app for production
