@@ -1,0 +1,155 @@
+{
+  "heroSection": {
+    "title": "Modern approach to web development",
+    "subtitle": "We are proud to introduce",
+    "buttons": ["Start now", "Take a tour"]
+  },
+  "header": {
+    "links": {
+      "home": "Main",
+      "career": "Career",
+      "blogs": "Blogs",
+      "about": "About"
+    },
+    "button": "Leave a request",
+    "menu": "Menu"
+  },
+  "directionsSection": {
+    "title": "Directions of development in the company",
+    "description": "We use all the best advanced technologies"
+  },
+  "aboutFeaturesSection": {
+    "title": "How we are working",
+    "description": "We work on two main schemes",
+    "items": [
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adip",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis."
+      },
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adip",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis."
+      }
+    ]
+  },
+  "aboutTestimonialsSection": {
+    "title": "Our advantages",
+    "items": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis"]
+  },
+  "aboutGuaranteesSections": {
+    "title": "Guarantees",
+    "description": "Working with us you get guarantees of quality work"
+  },
+  "aboutServerSection": {
+    "title": "Our services",
+    "description": "We offer a variety of software development and support services"
+  },
+  "aboutHeroSection": {
+    "title": "DigitalAgency is best company",
+    "socials": "OUR SOCIAL NETWORKS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum."
+  },
+  "careerAdvSections": {
+    "title": "Work with us is:"
+  },
+  "joinSection": {
+    "title": "Join the team",
+    "description": "And bring your ideas to life",
+    "btn": "Star now"
+  },
+  "techsSlider": {
+    "title": "We use all the best advanced technologies"
+  },
+  "careerHeroSection":{
+    "title": "We need talented developers everywhere and always!",
+    "subtitle": "Working at DigitalAgency",
+    "description": "Join our team and build a successful career",
+    "buttons": ["Start now", "Take a tour"]
+  },
+  "todaySections": {
+    "title": "Today DigitalAgency is:",
+    "description": "Join our team and build a successful career"
+  },
+  "callToActionSections": {
+    "title": "Need advice?",
+    "subtitle": "Leave a request and our managers will contact you shortly",
+    "btn": "Submit your question"
+  },
+  "homeAdvSection": {
+    "title": "Our advantages",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis"
+  },
+  "blogsSections": {
+    "title": "Our blogs",
+    "desc": "Articles created by our team",
+    "readBtn": "Read more..."
+  },
+  "projectsSection": {
+    "title": "Projects",
+    "moreBtn": {
+      "active": "Less",
+      "nonActive": "More..."
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis. Fusce elementum nisi tempor, lacinia elit et, congue velit. Suspendisse ac consectetur velit, nec tincidunt quam. Duis in tincidunt magna, nec efficitur sem."
+  },
+  "statsSection": {
+    "title": "Our team in numbers",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis.",
+    "stats": {
+      "dev": "Developers",
+      "proj": "Projects",
+      "clients": "Clients",
+      "couple": "Couple",
+      "coffee": "Coffee breaks"
+    }
+  },
+  "awardsSection": {
+    "title": "Awards",
+    "awards": {
+      "front": "In the Frontend rating",
+      "back": "In the Backend rating",
+      "out": "In the rating of outsource productions"
+    }
+  },
+  "contactBlock": {
+    "title": "Ready to make the right choice?",
+    "subtitle": "Leave a request and our managers will contact you",
+    "button": "Submit your application"
+  },
+  "lovedTechsSection": {
+    "title": "Our favorite technologies:",
+    "subtitle": "We use modern technologies to bring your ideas to life",
+    "vue": {
+      "title": "Vue",
+      "desc": "JavaScript library for creating user interfaces"
+    },
+    "bitrix": {
+      "title": "Bitrix",
+      "desc": "Professional system for creation, support and successful development of web projects."
+    },
+    "react": {
+      "title": "React",
+      "desc": "JavaScript library for creating user interfaces"
+    },
+    "docker": {
+      "title": "Docker",
+      "desc": "Deployment automation and application management software"
+    },
+    "custom": {
+      "title": "Custom",
+      "desc": "We will select the right technologies for your needs"
+    },
+    "electron": {
+      "title": "Electron",
+      "desc": "Allows you to develop native graphic applications"
+    },
+    "laravel": {
+      "title": "Laravel",
+      "desc": "Free open source web framework"
+    },
+    "git": {
+      "title": "GitLab",
+      "desc": "DevOps Lifecycle Web Tool"
+    }
+  }
+}

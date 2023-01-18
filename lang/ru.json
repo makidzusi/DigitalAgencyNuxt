@@ -1,0 +1,155 @@
+{
+  "heroSection": {
+    "title": "Современный подход к веб разработке",
+    "subtitle": "Мы горды представить",
+    "buttons": ["Начать сейчас", "Совершить тур"]
+  },
+  "header": {
+    "links": {
+        "home": "Главная",
+        "career": "Карьера",
+        "blogs": "Блоги",
+        "about": "О нас"
+    },
+    "button": "Оставить заявку",
+    "menu": "Меню"
+  },
+  "awardsSection": {
+    "title": "Награды",
+    "awards": {
+        "front": "В рейтинге Frontend разработка",
+        "back": "В рейтинге Backend разработка",
+        "out": "В рейтинге аутсорс-продакшнов"
+    }
+  },
+  "aboutFeaturesSection": {
+    "title": "Как мы работаем",
+    "description": "Работаем по двум основным схемам",
+    "items": [
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adip",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis."
+      },
+      {
+        "title": "Lorem ipsum dolor sit amet, consectetur adip",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis."
+      }
+    ]
+  },
+  "aboutHeroSection": {
+    "title": "DigitalAgency лучшая компания",
+    "socials": "НАШИ СОЦСЕТИ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum."
+  },
+  "aboutGuaranteesSections": {
+    "title": "Гарантии",
+    "description": "Работая с нами вы получаете гарантии качественного выполнения работы"
+  },
+  "aboutServerSection": {
+    "title": "Наши услуги",
+    "description": "Предлагаем множество услуг по разработке и поддержке программного обеспечения"
+  },
+  "aboutTestimonialsSection": {
+    "title": "Наши преимущества",
+    "items": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis"]
+  },
+  "joinSection": {
+    "title": "Присоеденяйся к команде",
+    "description": "И воплощай свои идеи в жизнь",
+    "btn": "Откликнуться"
+  },
+  "directionsSection": {
+    "title": "Направления разработки в компании",
+    "description": "Используем все самые лучшие передовые технологии"
+  },
+  "careerAdvSections": {
+    "title": "Работа у нас это:"
+  },
+  "techsSlider": {
+    "title": "Используем все самые лучшие передовые технологии"
+  },
+  "todaySections": {
+    "title": "Сегодня DigitalWand это:",
+    "description": "Присоединяйся кнашей команде и построй успешную карьеру"
+  },
+  "careerHeroSection":{
+    "title": "Нам нужны талантливые разработчики везде и всегда!",
+    "subtitle": "Работа в DigitalAgency",
+    "description": "Присоединяйся кнашей команде и построй успешную карьеру",
+    "buttons": ["Подать заявку", "Ознакомиться с компанией"]
+  },
+  "callToActionSections": {
+    "title": "Нужна консультация?",
+    "subtitle": "Оставьте заявку и наши мэнэджеры вскоре свяжутся с вами",
+    "btn": "Оставить заявку"
+  },
+  "homeAdvSection": {
+    "title": "Наши преимущества",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis"
+  },
+  "blogsSections": {
+    "title": "Блоги",
+    "desc": "Статьи созданные нашей комадой",
+    "readBtn": "Читать"
+  },
+  "statsSection": {
+    "title": "Наша команда в цифрах",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis.",
+    "stats": {
+      "dev": "Разработчиков",
+      "proj": "Проектов",
+      "clients": "Клиентов",
+      "couple": "Парочка",
+      "coffee": "Перервыров на кофе"
+    }
+  },
+  "projectsSection": {
+    "title": "Проекты",
+    "moreBtn": {
+      "active": "Свернуть",
+      "nonActive": "Еще..."
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut quam non leo porta elementum. Maecenas lacus enim, commodo sed porta sit amet, placerat vulputate felis. Fusce elementum nisi tempor, lacinia elit et, congue velit. Suspendisse ac consectetur velit, nec tincidunt quam. Duis in tincidunt magna, nec efficitur sem."
+  },
+  "contactBlock": {
+    "title": "Готовы сделать правильный выбор?",
+    "subtitle": "Оставьте заявку и наши мэнэджеры свяжутся с вами",
+    "button": "Оставить заявку"
+  },
+  "lovedTechsSection": {
+    "title": "Наши любимые технологии:",
+    "subtitle": "Мы используем современные технологии для воплощения ваших идей в жизнь",
+    "vue": {
+      "title": "Vue",
+      "desc": "JavaScript-библиотека для создания пользовательских интерфейсов"
+    },
+    "bitrix": {
+      "title": "Bitrix",
+      "desc": "Профессиональная система для создания, поддержки и успешного развития веб-проектов."
+    },
+    "react": {
+      "title": "React",
+      "desc": "JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов"
+    },
+    "docker": {
+      "title": "Docker",
+      "desc": "Программное обеспечение для автоматизации развёртывания и управления приложениями"
+    },
+    "custom": {
+      "title": "Custom",
+      "desc": "Подберем нужные технологии под ваши нужды"
+    },
+    "electron": {
+      "title": "Electron",
+      "desc": "Позволяет разрабатывать нативные графические приложения"
+    },
+    "laravel": {
+      "title": "Laravel",
+      "desc": "Бесплатный веб-фреймворк с открытым кодом"
+    },
+    "git": {
+      "title": "GitLab",
+      "desc": "Веб-инструмент жизненного цикла DevOps"
+    }
+  }
+}
